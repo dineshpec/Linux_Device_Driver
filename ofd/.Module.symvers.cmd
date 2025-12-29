@@ -1,0 +1,1 @@
+savedcmd_/home/t0232gd/learning/ldd/ofd/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/t0232gd/learning/ldd/ofd/Module.symvers -T /home/t0232gd/learning/ldd/ofd/modules.order -i Module.symvers -e 

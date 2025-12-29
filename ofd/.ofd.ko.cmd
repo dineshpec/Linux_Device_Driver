@@ -1,0 +1,1 @@
+savedcmd_/home/t0232gd/learning/ldd/ofd/ofd.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/t0232gd/learning/ldd/ofd/ofd.ko /home/t0232gd/learning/ldd/ofd/ofd.o /home/t0232gd/learning/ldd/ofd/ofd.mod.o

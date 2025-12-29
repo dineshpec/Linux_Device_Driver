@@ -1,0 +1,1 @@
+.#*\n*~\n# Kernel module build artifacts\n*.ko\n*.o\n*.mod.c\n*.mod.o\n*.ko.cmd\n*.o.cmd\n*.mod.cmd\n*.symvers\nModule.symvers\nmodules.order\n*.so\n# Editor files\n.vscode/\n*.swp\n.DS_Store\n
